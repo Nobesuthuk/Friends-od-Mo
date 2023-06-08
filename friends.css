@@ -1,3 +1,7 @@
 .inline {
 display:inline;
 }
+
+p {
+    font-family: 'Dancing Script', cursive;
+}
