@@ -6,22 +6,17 @@ p {
     font-family: 'Dancing Script', cursive;
 }
 
-.room {
-    background-color:purple;
-}
 
-#round {
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-}
+
+
+
 
 #signrow {
         color: bisque;
     }
 
 
-    .founder-img{
+    .item-img{
         width: 300px;
         height: 300px;
         border-radius: 150px;
