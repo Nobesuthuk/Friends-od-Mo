@@ -3,22 +3,28 @@ display:inline;
 }
 
 p {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    text: size adjust 8000px;
+   margin-top: 30px;
+   padding-left: 850px;
+   
 }
 
+    h2{
+     padding-left: 30px;
+        }
+        h3{
+            padding-left: 30px;
+                        background-color: yellow;
+               }
+#myCarousel{
+    display:flex;
+   width: 40%;
+    min-height: 30;
+}
 
-
-
-
-
-#signrow {
-        color: bisque;
-    }
-
-
-    .item-img{
-        width: 300px;
-        height: 300px;
-        border-radius: 150px;
-        margin:6px
-    }
+body{
+   
+    background-image: url(wors.png);
+    background-repeat: repeat;
+}
