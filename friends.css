@@ -4,10 +4,10 @@ display:inline;
 
 p {
     font-family: 'EB Garamond', serif;
-    text: size adjust 8000px;
+    size: 300px;
    margin-top: 30px;
    padding-left: 850px;
-   
+   color: yellowgreen;
 }
 
     h2{
@@ -22,9 +22,18 @@ p {
    width: 40%;
     min-height: 30;
 }
+p:hover{
+    color: black
+}
 
+#sign {
+    background-color:black;
+}
 body{
    
-    background-image: url(wors.png);
+    background-image: url(founder.jpg);
     background-repeat: repeat;
+}
+.word{
+    color: yellowgreen;
 }
